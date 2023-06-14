@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.homepage{
+    background-color:green;
+}
+.head{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+}
+.head h3{
+    margin-top: 20px;
+    margin-bottom: 10px;
+}

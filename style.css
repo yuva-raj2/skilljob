@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.homepage{
+    background-color:green;
+}
+
+.homepage{
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background:linear-gradient(rgba(130, 180, 107, 0.603), rgba(130,180,107,0.603));
+}
+.nav span{
+    margin-right:30rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;    
+}
+.nav{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-bottom:20px;
+    padding-top: 10px;
+}
+.nav a{
+    color: green;
+    text-decoration: none;
+    background-color: mediumturquoise;
+    padding:8px;
+}
+.nav a:hover{
+    color: mediumturquoise;
+    background-color: green;
+}
+.full-details{
+    margin-top: 4rem;
+    margin-left: 10rem;
+}
+.mainimg{
+    margin-left: 40rem;
+}
+.getstart{
+ margin-left: 120px;
+ margin-top: 15px;
+}
+.getstart a{
+    color:lightgray;
+    background-color:dodgerblue;
+    text-decoration: none;
+    padding: 5px;
+}
+.quote{
+    text-align: center;
+}
+.recommendations{
+    margin-top: 2rem;
+}
+.job, .job p{
+    margin-left: 10rem;
+}
+.job span{
+    font-weight: bolder;
+    font-size: 20px;
+    color: forestgreen;
+}
+.popular, .popular p{
+    margin-left: 10rem;
+}
+.popular span{
+    font-size: 20px;
+    font-weight: bolder;
+    color: forestgreen;
+}
+.projects, .projects p{
+    margin-left: 10rem;
+}
+.projects span{
+    font-size: 20px;
+    font-weight: bolder;
+    color: forestgreen;
+}
+.trends, .trends p{
+    margin-left: 10rem;
+}
+.trends span{
+    font-size: 20px;
+    font-weight: bolder;
+    color: forestgreen;
+}
